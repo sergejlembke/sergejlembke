@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CV and NLP projects
 - 📫 How to reach me: pm on GitHub
 - 😄 Pronouns: none
-- ⚡ Fun fact: 
+- ⚡ Fun fact: will think about it
 
 <!---
 m2null/m2null is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
