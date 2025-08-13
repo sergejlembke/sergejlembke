@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @m2null
-- 👀 I’m interested in Machine Learning, NLP, CV, (Social) Data Science,.. in Python
-- 🌱 I’m currently learning more about CV
-- 💞️ I’m looking to collaborate on CV and NLP projects
-- 📫 How to reach me: pm on GitHub
-- 😄 Pronouns: none
-- ⚡ Fun fact: will think about it
+# 👋 Hi, I'm Sergej Lembke
+
+**Junior Data Scientist & Engineer** | Part-time, remote M.Sc. in Applied Artificial Intelligence (in progress)  
+
+I am passionate about **Data Science and Data Engineering** and actively seeking **full-time roles** where I can apply my skills in Python, Machine Learning, and building scalable data pipelines.
+With a background in **Energy & Process Engineering (B.Sc.)**, hands-on experience from a Data Science Bootcamp, and ongoing training in advanced AI and data-driven techniques through my M.Sc., I enjoy turning complex datasets into actionable insights and practical solutions that create value for organizations.
+
+---
+
+## 🔧 Tech Stack
+- **Languages & Tools:** Python, SQL, Apache Airflow, Tableau, Git, Docker  
+- **Data Science & ML:** scikit-learn, pandas, NumPy, SciPy, BeautifulSoup, Streamlit, Seaborn  
+- **Data Engineering:** ETL processes, MySQL, SQLite  
+- **Special Interests:** Model training & evaluation, automation, data visualization
+
+---
+
+## 📂 Featured Projects
+- **[Face Recognition App (LFW Dataset)](https://github.com/sergejlembke/streamlit-face-recognition-app)** – PCA & SVM vs. Cosine Similarity for face recognition; interactive Streamlit app with evaluation  
+
+---
+
+## 📫 Connect with me
+- Feel free to connect with me on GitHub or LinkedIn for opportunities and collaborations
+- LinkedIn: [Sergej Lembke](https://www.linkedin.com/in/sergej-lembke-b0244137a/)
+
 
 <!---
-m2null/m2null is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sergejlembke/sergejlembke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+- **[Adsorber Temperature Model](LINK ZUM REPO)** – Complex analytical & numerical modeling of temperature distribution in adsorbers
+- **[Telegram Data Extraction Tool](LINK ZUM REPO)** – Python tool for extracting & structuring user/message data from Telegram groups & channels  
+
 --->
