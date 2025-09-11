@@ -16,7 +16,8 @@ With a background in **B.Sc. Energy & Process Engineering**, hands-on experience
 ---
 
 ## 📂 Featured Projects
-- **[Face Recognition App (LFW Dataset)](https://github.com/sergejlembke/streamlit-face-recognition-app)** – PCA & SVM vs. Cosine Similarity for face recognition; interactive Streamlit app with evaluation  
+- **[Face Recognition App (LFW Dataset)](https://github.com/sergejlembke/streamlit-face-recognition-app)** – PCA & SVM vs. PCA & Cosine Similarity for face recognition; interactive Streamlit app with evaluation
+- **[Telegram Scraper](https://github.com/sergejlembke/telegram-scraper)** - Collect messages, metadata, and media from chats, groups, and channels; automatic translation and export to CSV an/or JSON
 
 ---
 
