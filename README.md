@@ -16,15 +16,14 @@ With a background in **B.Sc. Energy & Process Engineering**, hands-on experience
 ---
 
 ## 📂 Featured Projects
-- **[Face Recognition App (LFW Dataset)](https://github.com/sergejlembke/streamlit-face-recognition-app)** – PCA & SVM vs. PCA & Cosine Similarity for face recognition; interactive Streamlit app with evaluation
+- **[Airflow PostgreSQL ETL-Pipeline (OpenWeather)](https://github.com/sergejlembke/airflow-postgres-weather-pipeline)** - Extract data from OpenWeather API, transform & load into PostgreSQL db; orchestrated in Airflow; deployed in Docker
+- **[Face Recognition App (LFW Dataset)](https://github.com/sergejlembke/streamlit-face-recognition-app)** – PCA & SVM vs. PCA & Cosine Similarity for face recognition; interactive Streamlit app with evaluation; deployed in Docker
 - **[Telegram Scraper](https://github.com/sergejlembke/telegram-scraper)** - Collect messages, metadata, and media from chats, groups, and channels; automatic translation and export to CSV an/or JSON
 
 ---
 
 ## 📫 Connect with me
-- Feel free to connect with me on GitHub or LinkedIn for opportunities and collaborations
-- LinkedIn: [Sergej Lembke](https://www.linkedin.com/in/sergej-lembke-b0244137a/)
-
+- Feel free to connect with me for opportunities and collaborations
 
 <!---
 sergejlembke/sergejlembke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
