@@ -10,7 +10,7 @@ With a background in **B.Sc. Energy & Process Engineering**, hands-on experience
 ## 🔧 Tech Stack
 - **Languages & Tools:** Python, SQL, Apache Airflow, Tableau, Git, Docker  
 - **Data Science & ML:** scikit-learn, pandas, NumPy, SciPy, BeautifulSoup, Streamlit, Seaborn  
-- **Data Engineering:** ETL processes, MySQL, SQLite  
+- **Data Engineering:** ETL processes, MySQL, PostgreSQL, SQLite  
 - **Special Interests:** Model training & evaluation, automation, data visualization
 
 ---
