@@ -2,7 +2,7 @@
 
 **Junior Data Scientist & Engineer** | Part-time M.Sc. Applied Artificial Intelligence (in progress)  
 
-I am passionate about **Data Science** and **Data Engineering** and actively seeking **full-time roles** where I can apply my skills in Python, Machine Learning, and building scalable data pipelines.
+I am passionate about **Data Science** and **Data Engineering**, working with Python, Machine Learning, and building scalable data pipelines.
 With a background in **B.Sc. Energy & Process Engineering**, hands-on experience from a Data Science Bootcamp, and ongoing training in advanced AI and data-driven techniques through my M.Sc. Applied Artificial Intelligence, I enjoy turning complex datasets into actionable insights and practical solutions that create value for organizations.
 
 ---
