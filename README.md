@@ -1,31 +1,41 @@
-Passionate about **Data Science** and **Data Engineering**, working with Python, Machine Learning, and building scalable data pipelines.
-Background in B.Sc. Energy & Process Engineering, hands-on experience from a Data Science Bootcamp, and ongoing training in advanced AI and data-driven techniques through my M.Sc. Applied Artificial Intelligence, I enjoy turning complex datasets into insights and practical solutions that create value.
+# Hi, I'm Sergej
+
+**M.Sc. Student in Applied AI & Working Student in Data & AI**  
+Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Architectures.
 
 ---
 
-## 🔧 Tech Stack
-- **Languages & Tools:** Python, SQL, Apache Airflow, Tableau, Git, Docker  
-- **Data Science & ML:** scikit-learn, pandas, NumPy, SciPy, BeautifulSoup, Streamlit, Seaborn  
-- **Data Engineering:** ETL processes, MySQL, PostgreSQL, SQLite  
-- **Special Interests:** Model training & evaluation, automation, data visualization
+### About Me
+*  Currently pursuing my **M.Sc. in Applied Artificial Intelligence** (Distance Learning).
+*  Working Student in **Data & AI** at Polisphere: Designing scalable scraping pipelines and containerized ETL architectures.
+*  Strong background in **Engineering & Mathematical Modeling** (B.Sc. from TU Berlin).
+*  Committed to **Clean Code principles**, modular design, and robust error handling in production.
+---
+
+### Tech Stack & Tools
+
+**Languages & Core:**  
+`Python (Asyncio, NumPy, pandas)` • `SQL (PostgreSQL, Firebird)`
+
+**Data Engineering & Infrastructure:**  
+`Apache Airflow` • `Docker & Docker Compose` • `Git / GitHub` • `Web Scraping (Telethon, BeautifulSoup)`
+
+**Machine Learning & Data Science:**  
+`scikit-learn` • `TensorFlow / Keras` • `Streamlit` • `EDA & Descriptive Statistics`
 
 ---
 
-## 📂 Featured Projects
-- **[Airflow PostgreSQL ETL-Pipeline (OpenWeather)](https://github.com/sergejlembke/airflow-postgres-weather-pipeline)** - Extract data from OpenWeather API, transform & load into PostgreSQL db; orchestrated in Airflow; deployed in Docker
-- **[Face Recognition App (LFW Dataset)](https://github.com/sergejlembke/streamlit-face-recognition-app)** – PCA & SVM vs. PCA & Cosine Similarity for face recognition; interactive Streamlit app with evaluation; deployed in Docker
-- **[Telegram Scraper](https://github.com/sergejlembke/telegram-scraper)** - Collect messages, metadata, and media from chats, groups, and channels; automatic translation and export to CSV an/or JSON
+### Selected Projects
+
+* **[Streamlit Face Recognition App](https://github.com/sergejlembke/streamlit-face-recognition-app)**  
+  *End-to-end face recognition pipeline comparing PCA + SVM against cosine similarity embeddings, deployed as an interactive Streamlit app (evaluated on LFW & VGGFace2).*
+
+* **[Airflow Postgres Weather Pipeline](https://github.com/sergejlembke/airflow-postgres-weather-pipeline)**  
+  *Automated ETL pipeline using Apache Airflow to extract OpenWeather API data into PostgreSQL, with JSONB raw payload storage and Docker Compose orchestration.*
 
 ---
 
-## 📫 Connect with me
-- Feel free to connect with me for opportunities and collaborations
-
-<!---
-sergejlembke/sergejlembke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- **[Adsorber Temperature Model](LINK ZUM REPO)** – Complex analytical & numerical modeling of temperature distribution in adsorbers
-- **[Telegram Data Extraction Tool](LINK ZUM REPO)** – Python tool for extracting & structuring user/message data from Telegram groups & channels  
-
---->
+### Current Learning Focus & Specializations
+*  **Deep Learning & Neural Networks** (TensorFlow / Keras)
+*  **Cloud-Native Software Development** & CI/CD Pipelines
+*  **Knowledge Representation & Reasoning** (Knowledge-Based Systems)
