@@ -15,13 +15,16 @@ Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Ar
 ### Tech Stack & Tools
 
 **Languages & Core:**  
-`Python (Asyncio, NumPy, pandas)` • `SQL (PostgreSQL, Firebird)`
+`Python (Asyncio, NumPy, pandas)` • `SQL (MySQL, PostgreSQL, Firebird)` • `NoSQL (MongoDB)`
 
 **Data Engineering & Infrastructure:**  
 `Apache Airflow` • `Docker & Docker Compose` • `Git / GitHub` • `Web Scraping (Telethon, BeautifulSoup)`
 
 **Machine Learning & Data Science:**  
-`scikit-learn` • `TensorFlow / Keras` • `Streamlit` • `EDA & Descriptive Statistics`
+`scikit-learn` • `PyTorch`• `TensorFlow / Keras` • `EDA & Descriptive Statistics`
+
+**Frontend:**
+`Streamlit`
 
 ---
 
