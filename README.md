@@ -23,7 +23,7 @@ Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Ar
 **Machine Learning & Data Science:**  
 `scikit-learn` • `PyTorch`• `TensorFlow / Keras` • `EDA & Descriptive Statistics`
 
-**Frontend:**
+**Frontend:**  
 `Streamlit`
 
 ---
