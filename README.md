@@ -7,7 +7,7 @@ Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Ar
 
 ### About Me
 *  Currently pursuing my **M.Sc. in Applied Artificial Intelligence** (Distance Learning).
-*  Working Student in **Data & AI** at Polisphere: Designing scalable scraping pipelines and containerized ETL architectures.
+*  Working Student in **Data & AI** at Polisphere: Designing scalable scraping pipelines, containerized ETL architectures and performing NLP-based data analysis.
 *  Strong background in **Engineering & Mathematical Modeling** (B.Sc. from TU Berlin).
 *  Committed to **Clean Code principles**, modular design, and robust error handling in production.
 ---
@@ -17,14 +17,14 @@ Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Ar
 **Languages & Core:**  
 `Python (Asyncio, NumPy, pandas)` • `SQL (MySQL, PostgreSQL, Firebird)` • `NoSQL (MongoDB)`
 
-**Data Engineering & Infrastructure:**  
-`Apache Airflow` • `Docker & Docker Compose` • `Git / GitHub` • `Web Scraping (Telethon, BeautifulSoup)`
-
 **Machine Learning & Data Science:**  
-`scikit-learn` • `PyTorch`• `TensorFlow / Keras` • `EDA & Descriptive Statistics`
+`scikit-learn` • `PyTorch` • `TensorFlow` • `EDA & Descriptive Statistics`
 
-**Frontend:**  
-`Streamlit`
+**Data Engineering & Infrastructure:**  
+`Apache Airflow` • `Docker & Docker Compose` • `Git / GitHub` • `Web Scraping (Selenium, BeautifulSoup, Telethon)`
+
+**Backend & Web:**  
+`FastAPI` • `Streamlit` • `REST APIs`
 
 ---
 
@@ -39,6 +39,6 @@ Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Ar
 ---
 
 ### Current Learning Focus & Specializations
-*  **Deep Learning & Neural Networks** (TensorFlow / Keras)
-*  **Cloud-Native Software Development** & CI/CD Pipelines
+*  **Deep Learning & Computer Vision** (PyTorch, TensorFlow)
+*  **Cloud-Native Software Development** (Kubernetes, Microservices, CI/CD, Helm & Service Meshes)
 *  **Knowledge Representation & Reasoning** (Knowledge-Based Systems)
