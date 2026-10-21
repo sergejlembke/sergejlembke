@@ -7,7 +7,8 @@ Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Ar
 
 ### About Me
 *  Currently pursuing my **M.Sc. in Applied Artificial Intelligence** (Distance Learning).
-*  Working Student in **Data & AI** at Polisphere: Designing scalable scraping pipelines, containerized ETL architectures and performing NLP-based data analysis.
+*  Working at Polisphere's **Data & AI** team: Designing scalable scraping pipelines, containerized ETL architectures and performing NLP-based data analysis.
+*  Passion for exploring and fine-tuning **Deep Learning** architectures in CV & NLP.
 *  Strong background in **Engineering & Mathematical Modeling** (B.Sc. from TU Berlin).
 *  Committed to **Clean Code principles**, modular design, and robust error handling in production.
 ---
@@ -21,7 +22,7 @@ Based in Berlin | Focused on Machine Learning, Data Engineering, and Scalable Ar
 `scikit-learn` • `PyTorch` • `TensorFlow` • `EDA & Descriptive Statistics`
 
 **Data Engineering & Infrastructure:**  
-`Apache Airflow` • `Docker & Docker Compose` • `Git / GitHub` • `Web Scraping (Selenium, BeautifulSoup, Telethon)`
+`Apache Airflow` • `Kubernetes` • `Docker & Docker Compose` • `Git / GitHub` • `Web Scraping (Selenium, BeautifulSoup, Telethon)`
 
 **Backend & Web:**  
 `FastAPI` • `Streamlit` • `REST APIs`
